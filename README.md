@@ -1,3 +1,8 @@
+#Fork Memo
+changed by HintAzuma.
+update setting file. this fork can build on 2023.7.21
+thanks original source developer.
+
 # raw_sound
 [![pub package](https://img.shields.io/badge/pub-0.3.0-yellowgreen)](https://pub.dev/packages/raw_sound)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
