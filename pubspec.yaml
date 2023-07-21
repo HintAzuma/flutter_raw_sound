@@ -5,8 +5,8 @@ homepage: https://github.com/8fdafs2/flutter_raw_sound
 repository: https://github.com/8fdafs2/flutter_raw_sound
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: '>=1.10.0'
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: '>=1.17.0'
 
 dependencies:
   flutter:
